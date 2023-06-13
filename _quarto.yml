@@ -1,0 +1,38 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Gabriel I. Cook"
+  # Add site-url (without trailing / at the end)
+  site-url: https://github.com/slicesofdata
+  # Add description: 
+  #description: ""
+  
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+      - href: courses.qmd
+        text: Courses
+      - href: lab.qmd
+        text: Lab        
+      - href: pubs.qmd
+        text: Pubs
+      - href: dataviztools.qmd
+        text: DataViz Tools
+      - href: CV/0.gicCV_newest.pdf
+        text: CV
+
+format:
+  html:
+    theme:  styles.scss
+     # light: darkly
+     # dark: darkly
+    #css: styles.css
+    page-layout: full
+    toc: true
+
+
+

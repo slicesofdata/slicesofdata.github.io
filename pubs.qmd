@@ -1,0 +1,75 @@
+---
+title: "Pubs"
+editor: visual
+
+# get links from https://www.gabrielcook.xyz/research/
+---
+
+
+Cook, G. I., Rummel, J., & Dummel, S. (2015). Toward an understanding of motivational influences on prospective memory using value-added intentions. Frontiers in Human Neuroscience. doi: 10.3389/fnhum.2015.00278
+ 
+Merritt, P., Wang, M., & Cook, G. (2014). Erlebacher’s Method for Contrasting the Within and Between-Subjects Manipulation of an Independent Variable using R and SPSS. Technical Report M-1, Clemson, SC. Department of Psychology, Clemson University.
+
+Meeks, J. T., Knight, J. B., Brewer, G. A., Cook, G. I., & Marsh, R. L. (2014). Investigating the subjective reports of rejection processes in the word frequency mirror effect. Consciousness and Cognition, 24, 57 – 69. DOI: 10.1016/j.concog.2013.12.007
+ 
+Cook, G. I., Meeks, J. T., Clark-Foos, A., Merritt, P. S., & Marsh, R. L. (2014). The role of interruptions and contextual associations in delayed-execute prospective memory. Applied Cognitive Psychology, 28, 91 – 103. DOI: 10.1002/acp.2960
+
+Merritt, P. S., Cook, G. I., Wang, M., Schnarrs, P., & Jack, S. (2013). Can a gay man play it straight? How being ‘out’ influences perceptions of masculinity and performance appraisal. Psychology of Popular Media Culture, 2, 150-160. DOI:10.1037/a0030957
+
+Merritt, P. S., Cobb, A. R., & Cook, G. I. (2012). Sex differences in the cognitive effects of tobacco abstinence: A pilot study. Experimental and Clinical Psychopharmacology, 258 – 63.
+ 
+Chiu, W. B., Tworek, H. A., Cook, G. I., & Wilson, M. F. (2011). Study of spectral analysis of the resting ECG for ischemia classification. Cardiology Journal, 18, 589.
+ 
+Knight, J. B., Meeks, J. T, Marsh, R. L., Cook, G. I., Brewer, G. A., & Hicks, J. L. (2011). An observation on the spontaneous noticing of prospective memory event-based cues. Journal of Experimental Psychology: Learning, Memory, and Cognition, 37, 298 – 307.
+ 
+Brewer, G. A., Marsh, R. L., Hicks, J. L., Meeks, J. T., & Cook, G. I. (2010). A comparison of activity-based to event-based prospective memory. Applied Cognitive Psychology, 25, 632 – 640.
+ 
+Marsh, R. L., Brewer, G. A., Jameson, J. P., Cook, G. I., Amir, N., & Hicks, J. L. (2009). Threat-related processing supports prospective memory retrieval for people with obsessive tendencies. Memory, 17, 679 – 686.
+ 
+Marsh, R. L., Meeks, J. T., Cook, G. I., Clark-Foos, A., & Hicks, J. L. (2009). Retrieval Constraints on the front end create differences in recollection on a subsequent test. Journal of Memory and Language, 61, 470 – 479.
+ 
+Clark-Foos, A., Brewer, G., Marsh, R. L., Meeks, J. T., & Cook, G. I. (2009). The valence of event-based prospective memory cues or the context in which they occur affects their detection. American Journal of Psychology, 122, 89 – 97.
+ 
+Cook, G. I., Hicks, J. L., & Marsh, R. L. (2007). Source monitoring is not always enhanced for valenced material. Memory & Cognition, 35, 222 – 230.
+
+Cook G. I., Marsh, R. L., Clark-Foos, A. G., & J. T., Marsh, R. L. (2007). Learning is impaired by activated intentions. Psychonomic Bulletin & Review, 14, 101 – 106.
+ 
+Marsh, R. L., Cook G. I., Meeks, Clark-Foos, A., & J. T., Hicks, J. L. (2007). Memory for intention-related material presented in a to-be-ignored channel. Memory & Cognition, 35, 1197 – 1204.
+ 
+Marsh, R. L., Hicks, J. L., Cook, G. I., & Mayhorn, C. (2007). Comparing older and younger adults in an event-based prospective memory paradigm containing an output monitoring component. Aging, Neuropsychology, & Cognition, 14, 168 – 188.
+
+Marsh, R. L., Cook, G. I., & Hicks, J. L. (2006). Task interference from event-based intentions can be material specific. Memory & Cognition, 34, 1636 – 1643.
+ 
+Marsh, R. L., Cook, G. I., & Hicks, J. L. (2006). The effect of context variability on source memory. Memory & Cognition, 34, 1578 – 1586.
+ 
+Cook G. I., Marsh, R. L., Hicks, J. L., & Martin, B. A. (2006). Fan effects in prospective memory. Memory, 14, 890 – 900.
+ 
+Cook, G. I., Marsh, R. L., & Hicks, J. L. (2006). Source memory in the absence of successful cued recall. Journal of Experimental Psychology: Learning, Memory, and Cognition, 828 – 835.
+ 
+Marsh, R. L., Meeks, J. T., Hicks, J. L., Cook G. I., & Clark-Foos, A. (2006). Concreteness and item-to-list context associations in free recall of items differing in context variability. Journal of Experimental Psychology: Learning, Memory, and Cognition, 32, 1424 – 1430.
+ 
+Starns, J. J., Cook, G. I., Hicks, J. L., & Marsh, R. L. (2006). On rejecting emotional lures created by phonological neighborhood activation. Journal of Experimental Psychology: Learning, Memory, and Cognition, 32, 847 – 853.
+ 
+Marsh, R. L., Hicks, J. L., & Cook, G. I. (2006). Task interference from prospective memories covaries with contextual associations of fulfilling them. Memory & Cognition, 34, 1037 – 1045.
+ 
+Marsh, R. L., Cook, G. I., & Hicks, J. L. (2006). Gender and orientation stereotypes bias source-monitoring attributions. Memory, 14, 148 – 160.
+
+Cook, G. I., Marsh, R. L., & Hicks, J. L. (2006). The role of recollection and familiarity in the context variability mirror effect. Memory & Cognition, 34, 240 – 250.
+ 
+Cook, G. I., Marsh, R. L., & Hicks, J. L. (2005). Revisiting the role of recollection in item versus forced-choice recognition memory. Psychonomic Bulletin & Review, 12, 720 – 725.
+ 
+Cook, G. I., Marsh, R. L., & Hicks, J. L. (2005). Associating a time-based prospective memory task with an expected context can improve or impair intention completion. Applied Cognitive Psychology, 19, 345 – 360.
+ 
+Hicks, J. L., Marsh, R. L., & Cook, G. I. (2005). An observation on the role of context variability in free recall. Journal of Experimental Psychology: Learning, Memory, and Cognition, 31, 1160 – 1164.
+ 
+Hicks, J. L., Marsh, R. L., & Cook, G. I. (2005). Task interference in time-based, event-based, and dual intention prospective memory conditions. Journal of Memory and Language, 53, 430 – 444.
+ 
+Hicks, J. L., Cook, G. I., & Marsh, R. L. (2005). Detecting event-based prospective memory cues occurring within and outside of the focus of attention. American Journal of Psychology, 118, 1 – 11.
+
+Marsh, R. L., Hicks, J. L., & Cook, G. I. (2005). On the relationship between effort toward an ongoing task and cue detection in event-based prospective memory. Journal of Experimental Psychology: Learning, Memory, and Cognition, 31, 68 – 75.
+ 
+Marsh, R. L., Hicks, J. L., & Cook, G. I. (2004). Focused attention on one contextual attribute does not reduce source memory for a different attribute. Memory, 12, 183 – 192.
+ 
+Cook, G. I., Marsh, R. L., & Hicks, J. L. (2003). Halo and devil effects demonstrate valenced-based influences on source-monitoring decisions. Consciousness & Cognition, 12, 257 – 278.
+
+Marsh, R. L., Hicks, J. L., Cook, G. I., Hansen, J. S., & Pallos, A. L. (2003). Interference to ongoing activities covaries with the characteristics of an event-based intention. Journal of Experimental Psychology: Learning, Memory, and Cognition, 29, 861 – 870.

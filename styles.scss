@@ -1,0 +1,40 @@
+/*-- scss:defaults --*/
+
+// Colors
+$off_white: #FDFBF7;
+$gray: #64605f;
+$light-gray: #949799;
+$purewhite: #ffffff;
+$blue2:  #27b2ef;
+$black: #000000;
+
+
+$navbar_bg: #1f0797;  //blue
+$navbar_fg: #ffffff;  // white
+$navbar_hl: #eeef27;  // yellow
+$body_bg: #ffffff;    // pure white
+$body_color: #64605f; // gray
+$footer_bg: #FDFBF7;  // cream
+$link_color: #000000; // black
+$link_color:#1f0797;
+$code_bg: $off_white;
+$codecolor: $blue2;
+$code_block_bg: $off_white;
+
+
+
+// Base document colors
+$navbar-bg: $navbar_bg;   // navbar
+$navbar-fg: $navbar_fg;   // navbar font color/fg elements
+$navbar-hl: $navbar_hl;    // highlight color when hovering over navbar links
+$body-bg: $body_bg;       // page background 
+$body-color: $body_color; // page text 
+$footer-bg: $footer_bg;   // footer 
+$link-color: $link_color; // hyperlinks 
+
+// Inline code
+$code-bg: $off_white; // inline code background color
+$code-color: $blue2; // inline code text color
+
+// Code blocks
+$code-block-bg: $off_white; // code block background color

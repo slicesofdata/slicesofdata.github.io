@@ -1,0 +1,16 @@
+---
+title: "Courses"
+editor: visual
+---
+
+## Current Courses
+
+-   PSYC167 - Data Visualization
+-   PSYC040 - Cognitive Psychology
+-   PSYC131 - Games, Cognition, & Data Science
+
+## Past Courses
+
+-   PSYC109 - Statistics
+-   PSYC161 - Decision Making and Memory
+-   PSYC162 - Remembering and Forgetting

@@ -1,0 +1,163 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "I am research scientist and Associate Professor with a specialization in the cognitive mechanisms underlying memory, attention, and decision making. I focus primarily on studying the variables that influence how people remember (or forget) to fulfill everyday intentions at the home, at school, or in the workplace. My recent work has focused on how financial gains or losses can influence memory for carrying out such tasks, which may have implications for workplace performance and bonus structures. I also study how people remember the origin of information, which plays a role in distinguishing between reality and imagination as well as attributing ideas to team members accurately.\nI have been a professor at Claremont McKenna College since 2005 and have taught courses on statistics, research methods, memory, cognition, and decision making. I’d like to develop a course related to Data Science using Python and R if time permits. I also offer a course on memory at Claremont Graduate School. I manage my Human Learning and Memory Lab at CMC\n\n\n\nI enjoy a simple, minimalist lifestyle and the flexibility that comes with that freedom. I love deep conversation with anyone who is willing to share his or her views about reality and fantasy or anywhere between. In my spare time, I like to boulder at the gym with my wife, tend to our garden and preserve our bounty, cycle, and ferment foods.\n\n\n\nI am a fan of efficiency, automation, and work flow. In my spare time, I enjoy writing scripts and programs that automate either annoying or repetitive tasks for myself or for others. I believe there is more to life than doing manually what computers can do more accurately and efficiently."
+  },
+  {
+    "objectID": "dataviztools.html#websites",
+    "href": "dataviztools.html#websites",
+    "title": "Tools for Data Visualization",
+    "section": "Websites",
+    "text": "Websites\n\nPractice Coding in R on Posit Cloud\n\nhttps://posit.cloud/learn/primers/\n\n\n\nColor Codes\n\nHTML colors: https://htmlcolorcodes.com/\n\n\n\nVisualize a palettes for different types of colorblindness\n\nViz Palette https://projects.susielu.com/viz-palette\n\n\n\nWhat do your photos/images look like to others?\n\nCoblis colorblindness imulator: https://www.color-blindness.com/coblis-color-blindness-simulator/\nPilestone Colorblindness Simulator: https://pilestone.com/pages/color-blindness-simulator-1\nVischeck http://www.vischeck.com/vischeck/vischeckImage.php"
+  },
+  {
+    "objectID": "courses.html",
+    "href": "courses.html",
+    "title": "Courses",
+    "section": "",
+    "text": "PSYC167 - Data Visualization\nPSYC040 - Cognitive Psychology\nPSYC131 - Games, Cognition, & Data Science"
+  },
+  {
+    "objectID": "courses.html#current-courses",
+    "href": "courses.html#current-courses",
+    "title": "Courses",
+    "section": "",
+    "text": "PSYC167 - Data Visualization\nPSYC040 - Cognitive Psychology\nPSYC131 - Games, Cognition, & Data Science"
+  },
+  {
+    "objectID": "courses.html#past-courses",
+    "href": "courses.html#past-courses",
+    "title": "Courses",
+    "section": "Past Courses",
+    "text": "Past Courses\n\nPSYC109 - Statistics\nPSYC161 - Decision Making and Memory\nPSYC162 - Remembering and Forgetting"
+  },
+  {
+    "objectID": "lab.html",
+    "href": "lab.html",
+    "title": "Data Visualization Lab",
+    "section": "",
+    "text": "In the Data Visualization lab, our research focuses on understanding how people perceive, attend to, interpret, remember, and make decisions from data visualizations. In particular, we are interested in understanding the cognitive constraints, limitations, and biases associated with the daily task of understanding data through visualizations."
+  },
+  {
+    "objectID": "lab.html#data-visualization-lab",
+    "href": "lab.html#data-visualization-lab",
+    "title": "Data Visualization Lab",
+    "section": "",
+    "text": "In the Data Visualization lab, our research focuses on understanding how people perceive, attend to, interpret, remember, and make decisions from data visualizations. In particular, we are interested in understanding the cognitive constraints, limitations, and biases associated with the daily task of understanding data through visualizations."
+  },
+  {
+    "objectID": "lab.html#lab-skills-and-tools",
+    "href": "lab.html#lab-skills-and-tools",
+    "title": "Data Visualization Lab",
+    "section": "Lab Skills and Tools",
+    "text": "Lab Skills and Tools\n\nData Analysis: R ; RStudio\nGit: – GitHub, GitLab, GitDesktop –\nExperiment Design: E-prime, PsychoPy (Python * JS)\nQualtrics: for designing online surveys\nExperiment Management: Sona-Systems (local experiments); Pavlovia, & Prolific (for identifying samples for online data collection across the globe)"
+  },
+  {
+    "objectID": "lab.html#research-projects",
+    "href": "lab.html#research-projects",
+    "title": "Data Visualization Lab",
+    "section": "Research Projects",
+    "text": "Research Projects"
+  },
+  {
+    "objectID": "pubs.html",
+    "href": "pubs.html",
+    "title": "Pubs",
+    "section": "",
+    "text": "Cook, G. I., Rummel, J., & Dummel, S. (2015). Toward an understanding of motivational influences on prospective memory using value-added intentions. Frontiers in Human Neuroscience. doi: 10.3389/fnhum.2015.00278\nMerritt, P., Wang, M., & Cook, G. (2014). Erlebacher’s Method for Contrasting the Within and Between-Subjects Manipulation of an Independent Variable using R and SPSS. Technical Report M-1, Clemson, SC. Department of Psychology, Clemson University.\nMeeks, J. T., Knight, J. B., Brewer, G. A., Cook, G. I., & Marsh, R. L. (2014). Investigating the subjective reports of rejection processes in the word frequency mirror effect. Consciousness and Cognition, 24, 57 – 69. DOI: 10.1016/j.concog.2013.12.007\nCook, G. I., Meeks, J. T., Clark-Foos, A., Merritt, P. S., & Marsh, R. L. (2014). The role of interruptions and contextual associations in delayed-execute prospective memory. Applied Cognitive Psychology, 28, 91 – 103. DOI: 10.1002/acp.2960\nMerritt, P. S., Cook, G. I., Wang, M., Schnarrs, P., & Jack, S. (2013). Can a gay man play it straight? How being ‘out’ influences perceptions of masculinity and performance appraisal. Psychology of Popular Media Culture, 2, 150-160. DOI:10.1037/a0030957\nMerritt, P. S., Cobb, A. R., & Cook, G. I. (2012). Sex differences in the cognitive effects of tobacco abstinence: A pilot study. Experimental and Clinical Psychopharmacology, 258 – 63.\nChiu, W. B., Tworek, H. A., Cook, G. I., & Wilson, M. F. (2011). Study of spectral analysis of the resting ECG for ischemia classification. Cardiology Journal, 18, 589.\nKnight, J. B., Meeks, J. T, Marsh, R. L., Cook, G. I., Brewer, G. A., & Hicks, J. L. (2011). An observation on the spontaneous noticing of prospective memory event-based cues. Journal of Experimental Psychology: Learning, Memory, and Cognition, 37, 298 – 307.\nBrewer, G. A., Marsh, R. L., Hicks, J. L., Meeks, J. T., & Cook, G. I. (2010). A comparison of activity-based to event-based prospective memory. Applied Cognitive Psychology, 25, 632 – 640.\nMarsh, R. L., Brewer, G. A., Jameson, J. P., Cook, G. I., Amir, N., & Hicks, J. L. (2009). Threat-related processing supports prospective memory retrieval for people with obsessive tendencies. Memory, 17, 679 – 686.\nMarsh, R. L., Meeks, J. T., Cook, G. I., Clark-Foos, A., & Hicks, J. L. (2009). Retrieval Constraints on the front end create differences in recollection on a subsequent test. Journal of Memory and Language, 61, 470 – 479.\nClark-Foos, A., Brewer, G., Marsh, R. L., Meeks, J. T., & Cook, G. I. (2009). The valence of event-based prospective memory cues or the context in which they occur affects their detection. American Journal of Psychology, 122, 89 – 97.\nCook, G. I., Hicks, J. L., & Marsh, R. L. (2007). Source monitoring is not always enhanced for valenced material. Memory & Cognition, 35, 222 – 230.\nCook G. I., Marsh, R. L., Clark-Foos, A. G., & J. T., Marsh, R. L. (2007). Learning is impaired by activated intentions. Psychonomic Bulletin & Review, 14, 101 – 106.\nMarsh, R. L., Cook G. I., Meeks, Clark-Foos, A., & J. T., Hicks, J. L. (2007). Memory for intention-related material presented in a to-be-ignored channel. Memory & Cognition, 35, 1197 – 1204.\nMarsh, R. L., Hicks, J. L., Cook, G. I., & Mayhorn, C. (2007). Comparing older and younger adults in an event-based prospective memory paradigm containing an output monitoring component. Aging, Neuropsychology, & Cognition, 14, 168 – 188.\nMarsh, R. L., Cook, G. I., & Hicks, J. L. (2006). Task interference from event-based intentions can be material specific. Memory & Cognition, 34, 1636 – 1643.\nMarsh, R. L., Cook, G. I., & Hicks, J. L. (2006). The effect of context variability on source memory. Memory & Cognition, 34, 1578 – 1586.\nCook G. I., Marsh, R. L., Hicks, J. L., & Martin, B. A. (2006). Fan effects in prospective memory. Memory, 14, 890 – 900.\nCook, G. I., Marsh, R. L., & Hicks, J. L. (2006). Source memory in the absence of successful cued recall. Journal of Experimental Psychology: Learning, Memory, and Cognition, 828 – 835.\nMarsh, R. L., Meeks, J. T., Hicks, J. L., Cook G. I., & Clark-Foos, A. (2006). Concreteness and item-to-list context associations in free recall of items differing in context variability. Journal of Experimental Psychology: Learning, Memory, and Cognition, 32, 1424 – 1430.\nStarns, J. J., Cook, G. I., Hicks, J. L., & Marsh, R. L. (2006). On rejecting emotional lures created by phonological neighborhood activation. Journal of Experimental Psychology: Learning, Memory, and Cognition, 32, 847 – 853.\nMarsh, R. L., Hicks, J. L., & Cook, G. I. (2006). Task interference from prospective memories covaries with contextual associations of fulfilling them. Memory & Cognition, 34, 1037 – 1045.\nMarsh, R. L., Cook, G. I., & Hicks, J. L. (2006). Gender and orientation stereotypes bias source-monitoring attributions. Memory, 14, 148 – 160.\nCook, G. I., Marsh, R. L., & Hicks, J. L. (2006). The role of recollection and familiarity in the context variability mirror effect. Memory & Cognition, 34, 240 – 250.\nCook, G. I., Marsh, R. L., & Hicks, J. L. (2005). Revisiting the role of recollection in item versus forced-choice recognition memory. Psychonomic Bulletin & Review, 12, 720 – 725.\nCook, G. I., Marsh, R. L., & Hicks, J. L. (2005). Associating a time-based prospective memory task with an expected context can improve or impair intention completion. Applied Cognitive Psychology, 19, 345 – 360.\nHicks, J. L., Marsh, R. L., & Cook, G. I. (2005). An observation on the role of context variability in free recall. Journal of Experimental Psychology: Learning, Memory, and Cognition, 31, 1160 – 1164.\nHicks, J. L., Marsh, R. L., & Cook, G. I. (2005). Task interference in time-based, event-based, and dual intention prospective memory conditions. Journal of Memory and Language, 53, 430 – 444.\nHicks, J. L., Cook, G. I., & Marsh, R. L. (2005). Detecting event-based prospective memory cues occurring within and outside of the focus of attention. American Journal of Psychology, 118, 1 – 11.\nMarsh, R. L., Hicks, J. L., & Cook, G. I. (2005). On the relationship between effort toward an ongoing task and cue detection in event-based prospective memory. Journal of Experimental Psychology: Learning, Memory, and Cognition, 31, 68 – 75.\nMarsh, R. L., Hicks, J. L., & Cook, G. I. (2004). Focused attention on one contextual attribute does not reduce source memory for a different attribute. Memory, 12, 183 – 192.\nCook, G. I., Marsh, R. L., & Hicks, J. L. (2003). Halo and devil effects demonstrate valenced-based influences on source-monitoring decisions. Consciousness & Cognition, 12, 257 – 278.\nMarsh, R. L., Hicks, J. L., Cook, G. I., Hansen, J. S., & Pallos, A. L. (2003). Interference to ongoing activities covaries with the characteristics of an event-based intention. Journal of Experimental Psychology: Learning, Memory, and Cognition, 29, 861 – 870."
+  },
+  {
+    "objectID": "dataviztools.html#books",
+    "href": "dataviztools.html#books",
+    "title": "Tools for Data Visualization",
+    "section": "Books",
+    "text": "Books\n\nhttps://www.bigbookofr.com/data-visualization.html\nhttps://handsondataviz.org/"
+  },
+  {
+    "objectID": "dataviztools.html",
+    "href": "dataviztools.html",
+    "title": "Tools for Data Visualization",
+    "section": "",
+    "text": ":::{#hero-heading}"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Gabriel I. Cook",
+    "section": "",
+    "text": "Father. Husband. Gardener. Climber. Fermentation Enthusiast.\nI love research, data, and trying to understand the underlying influences of events. I am an enthusiast of efficiency, automation, and work flow. I’ve been called contrarian and told I think too much, yet I believe challenging the status quo moves us forward. I enjoy teaching others to do the same.\n“Rivalry of scholars advances wisdom.” – Hebrew Proverb\n\n\nEducation\nThe University of Georgia | Athens, GA | PhD in Cognitive Psychology | May 2005\nBloomsburg University of Pennsylvania | Bloomsburg, PA | BA in Psychology | May 1999\nI teach courses in Cognitive Psychology, Decision Making, Memory, Data Science, and Data Visualization.\n\n\n\nTeaching\nI have been a professor at Claremont McKenna College since 2005 and have taught courses on statistics, research methods, memory, cognition, and decision making. I’d like to develop a course related to Data Science using Python and R if time permits. I also offer a course on memory at Claremont Graduate School. I manage my Human Learning and Memory Lab at CMC."
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Gabriel I. Cook",
+    "section": "Education",
+    "text": "Education\nThe University of Georgia | Athens, GA | PhD in Cognitive Psychology | May 2005\nBloomsburg University of Pennsylvania | Bloomsburg, PA | BA in Psychology | May 1999\nI teach courses in Cognitive Psychology, Decision Making, Memory, Data Science, and Data Visualization."
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Gabriel I. Cook",
+    "section": "Experience",
+    "text": "Experience\nGeoScynce | Chief Analyst | July 2005 - Present\n:::\nHOBBIES\nI enjoy a simple, minimalist lifestyle and the flexibility that comes with that freedom. I love deep conversation with anyone who is willing to share his or her views about reality and fantasy or anywhere between. In my spare time, I like to boulder at the gym with my wife, tend to our garden and preserve our bounty, cycle, and ferment foods.\nOTHER INTERESTS & SKILLS\nI am a fan of efficiency, automation, and work flow. In my spare time, I enjoy writing scripts and programs that automate either annoying or repetitive tasks for myself or for others. I believe there is more to life than doing manually what computers can do more accurately and efficiently."
+  },
+  {
+    "objectID": "index.html#hobbies",
+    "href": "index.html#hobbies",
+    "title": "Gabriel I. Cook",
+    "section": "Hobbies",
+    "text": "Hobbies\nI enjoy a simple, minimalist lifestyle and the flexibility that comes with that freedom. I love deep conversation with anyone who is willing to share his or her views about reality and fantasy or anywhere between. In my spare time, I like to boulder at the gym with my wife, tend to our garden and preserve our bounty, cycle, and ferment foods."
+  },
+  {
+    "objectID": "index.html#other-interests-skills",
+    "href": "index.html#other-interests-skills",
+    "title": "Gabriel I. Cook",
+    "section": "OTHER INTERESTS & SKILLS",
+    "text": "OTHER INTERESTS & SKILLS\nI am a fan of efficiency, automation, and work flow. In my spare time, I enjoy writing scripts and programs that automate either annoying or repetitive tasks for myself or for others. I believe there is more to life than doing manually what computers can do more accurately and efficiently."
+  },
+  {
+    "objectID": "index.html#other",
+    "href": "index.html#other",
+    "title": "Gabriel I. Cook",
+    "section": "Other",
+    "text": "Other\nI am a fan of efficiency, automation, and work flow. In my spare time, I enjoy writing scripts and programs that automate either annoying or repetitive tasks for myself or for others. I believe there is more to life than doing manually what computers can do more accurately and efficiently."
+  },
+  {
+    "objectID": "about.html#in-a-nutshell",
+    "href": "about.html#in-a-nutshell",
+    "title": "About",
+    "section": "In a nutshell",
+    "text": "In a nutshell\nI am research scientist and Associate Professor with a specialization in the cognitive mechanisms underlying memory, attention, and decision making. I focus primarily on studying the variables that influence how people remember (or forget) to fulfill everyday intentions at the home, at school, or in the workplace. My recent work has focused on how financial gains or losses can influence memory for carrying out such tasks, which may have implications for workplace performance and bonus structures. I also study how people remember the origin of information, which plays a role in distinguishing between reality and imagination as well as attributing ideas to team members accurately.\nI have been a professor at Claremont McKenna College since 2005 and have taught courses on statistics, research methods, memory, cognition, and decision making. I’d like to develop a course related to Data Science using Python and R if time permits. I also offer a course on memory at Claremont Graduate School. I manage my Human Learning and Memory Lab at CMC"
+  },
+  {
+    "objectID": "about.html#hobbies",
+    "href": "about.html#hobbies",
+    "title": "About",
+    "section": "Hobbies",
+    "text": "Hobbies\nI enjoy a simple, minimalist lifestyle and the flexibility that comes with that freedom. I love deep conversation with anyone who is willing to share his or her views about reality and fantasy or anywhere between. In my spare time, I like to boulder at the gym with my wife, tend to our garden and preserve our bounty, cycle, and ferment foods."
+  },
+  {
+    "objectID": "about.html#other-interests",
+    "href": "about.html#other-interests",
+    "title": "About",
+    "section": "Other Interests",
+    "text": "Other Interests\nI am a fan of efficiency, automation, and work flow. In my spare time, I enjoy writing scripts and programs that automate either annoying or repetitive tasks for myself or for others. I believe there is more to life than doing manually what computers can do more accurately and efficiently."
+  },
+  {
+    "objectID": "index.html#father.-husband.-gardener.-climber.-fermentation-enthusiast.",
+    "href": "index.html#father.-husband.-gardener.-climber.-fermentation-enthusiast.",
+    "title": "Gabriel I. Cook",
+    "section": "",
+    "text": "I love research, data, and trying to understand the underlying influences of events. I am an enthusiast of efficiency, automation, and work flow. I’ve been called contrarian and told I think too much, yet I believe challenging the status quo moves us forward. I enjoy teaching others to do the same.\n“Rivalry of scholars advances wisdom.” – Hebrew Proverb\n\n\n\nThe University of Georgia | Athens, GA | PhD in Cognitive Psychology | May 2005\nBloomsburg University of Pennsylvania | Bloomsburg, PA | BA in Psychology | May 1999\nI teach courses in Cognitive Psychology, Decision Making, Memory, Data Science, and Data Visualization."
+  },
+  {
+    "objectID": "about.html#hobbies-other-interests",
+    "href": "about.html#hobbies-other-interests",
+    "title": "About",
+    "section": "Hobbies & Other Interests",
+    "text": "Hobbies & Other Interests\nI enjoy a simple, minimalist lifestyle and the flexibility that comes with that freedom. I love deep conversation with anyone who is willing to share his or her views about reality and fantasy or anywhere between. In my spare time, I like to boulder at the gym with my wife, tend to our garden and preserve our bounty, cycle, and ferment foods.\nI am a fan of efficiency, automation, and work flow. In my spare time, I enjoy writing scripts and programs that automate either annoying or repetitive tasks for myself or for others. I believe there is more to life than doing manually what computers can do more accurately and efficiently."
+  }
+]

@@ -1,0 +1,15 @@
+---
+title: "Tools for Data Visualization"
+#editor: visual
+---
+
+## **R Libraries**
+
+## **Websites**
+
+<https://htmlcolorcodes.com/>
+
+## **Books**
+
+<https://www.bigbookofr.com/data-visualization.html>
+<https://handsondataviz.org/>
