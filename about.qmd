@@ -11,8 +11,6 @@ title: "About"
 
 I am research scientist and Associate Professor with a specialization in the cognitive mechanisms underlying memory, attention, and decision making. I focus primarily on studying the variables that influence how people remember (or forget) to fulfill everyday intentions at the home, at school, or in the workplace. My recent work has focused on how financial gains or losses can influence memory for carrying out such tasks, which may have implications for workplace performance and bonus structures. I also study how people remember the origin of information, which plays a role in distinguishing between reality and imagination as well as attributing ideas to team members accurately.
 
-I have been a professor at Claremont McKenna College since 2005 and have taught courses on statistics, research methods, memory, cognition, and decision making. I’d like to develop a course related to Data Science using Python and R if time permits. I also offer a course on memory at Claremont Graduate School. I manage my Human Learning and Memory Lab at CMC
-
 ## Hobbies & Other Interests
 
 I enjoy a simple, minimalist lifestyle and the flexibility that comes with that freedom. I love deep conversation with anyone who is willing to share his or her views about reality and fantasy or anywhere between. In my spare time, I like to boulder at the gym with my wife, tend to our garden and preserve our bounty, cycle, and ferment foods.
