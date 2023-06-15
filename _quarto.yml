@@ -8,11 +8,11 @@ project:
 website:
   title: "Gabriel I. Cook"
    # google-analytics: 
-  description: "Website for data visualization lab at Claremont McKenna College."
   # Add site-url (without trailing / at the end)
   site-url: "https://slicesofdata.github.io/mysite"
   # Add description: 
-  #description: ""
+  description: "Website for data visualization lab at Claremont McKenna College."
+
   
   navbar:
     left:
@@ -35,12 +35,6 @@ website:
       - href: CV/0.gicCV_newest.pdf
         text: CV
     right:
-      #- text: ORCID
-      #  href: https://orcid.org/0000-0002-1921-5082
-      #- text: Instagram
-      #  href: https://instagram.com/sowingchange
-      - icon: github
-        href: https://github.com/slicesofdata
       - icon: github
         href: https://github.com/slicesofdata
         aria-label: GitHub
@@ -48,11 +42,11 @@ website:
         href: https://www.linkedin.com/in/gabriel-cook-b618847/
         aria-label: LinkedIn
       #- icon: orcid
+      - text: ORCID
+        href: https://orcid.org/0000-0002-1921-5082
+      - text: Instagram
+        href: https://instagram.com/sowingchange
 
-      
-      #- icon: email
-      #  href: gcook@CMC.edu
-        
 format:
   html:
     theme:  styles.scss
