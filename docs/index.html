@@ -87,10 +87,18 @@ ul.task-list li input[type="checkbox"] {
     <a class="nav-link" href="./about.html" rel="" target="">
  <span class="menu-text">About</span></a>
   </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="./courses.html" rel="" target="">
- <span class="menu-text">Courses</span></a>
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-courses" role="button" data-bs-toggle="dropdown" aria-expanded="false" rel="" target="">
+ <span class="menu-text">Courses</span>
+    </a>
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-courses">    
+        <li>
+    <a class="dropdown-item" href="./courses/dv/dv.html" rel="" target="">
+ <span class="dropdown-text">Data Visualization</span></a>
   </li>  
+        <li class="dropdown-header">Cognitive Psychology</li>
+    </ul>
+  </li>
   <li class="nav-item">
     <a class="nav-link" href="./lab.html" rel="" target="">
  <span class="menu-text">Lab</span></a>
@@ -108,7 +116,19 @@ ul.task-list li input[type="checkbox"] {
  <span class="menu-text">CV</span></a>
   </li>  
 </ul>
-            <div class="quarto-navbar-tools ms-auto">
+            <ul class="navbar-nav navbar-nav-scroll ms-auto">
+  <li class="nav-item compact">
+    <a class="nav-link" href="https://github.com/slicesofdata" rel="" target=""><i class="bi bi-github" role="img" aria-label="GitHub">
+</i> 
+ <span class="menu-text"></span></a>
+  </li>  
+  <li class="nav-item compact">
+    <a class="nav-link" href="https://www.linkedin.com/in/gabriel-cook-b618847/" rel="" target=""><i class="bi bi-linkedin" role="img" aria-label="LinkedIn">
+</i> 
+ <span class="menu-text"></span></a>
+  </li>  
+</ul>
+            <div class="quarto-navbar-tools">
 </div>
           </div> <!-- /navcollapse -->
       </div> <!-- /container-fluid -->
@@ -122,8 +142,9 @@ ul.task-list li input[type="checkbox"] {
         <nav id="TOC" role="doc-toc" class="toc-active">
     <h2 id="toc-title">On this page</h2>
   <ul>
-  <li><a href="#education" id="toc-education" class="nav-link active" data-scroll-target="#education">Education</a></li>
-  <li><a href="#teaching" id="toc-teaching" class="nav-link" data-scroll-target="#teaching">Teaching</a></li>
+  <li><a href="#me" id="toc-me" class="nav-link active" data-scroll-target="#me"><strong>Me</strong></a></li>
+  <li><a href="#education" id="toc-education" class="nav-link" data-scroll-target="#education"><strong>Education</strong></a></li>
+  <li><a href="#teaching" id="toc-teaching" class="nav-link" data-scroll-target="#teaching"><strong>Teaching</strong></a></li>
   </ul>
 </nav>
     </div>
@@ -140,12 +161,6 @@ ul.task-list li input[type="checkbox"] {
   </div>
 </header>
     <div class="about-links">
-  <a href="https://www.linkedin.com/in/gabriel-cook-b618847/" class="about-link" rel="" target="">
-     <span class="about-link-text">LinkedIn</span>
-  </a>
-  <a href="https://github.com/slicesofdata" class="about-link" rel="" target="">
-     <span class="about-link-text">GitHub</span>
-  </a>
   <a href="mailto:gcook@CMC.edu" class="about-link" rel="" target="">
      <span class="about-link-text">Email</span>
   </a>
@@ -153,19 +168,22 @@ ul.task-list li input[type="checkbox"] {
   </div>
   <div class="about-contents"><main class="content column-page-left" id="quarto-document-content">
 
-<p><strong>Father. Husband. Gardener. Climber. Fermentation Enthusiast.</strong></p>
+<section id="me" class="level3">
+<h3 data-anchor-id="me"><strong>Me</strong></h3>
+<p><em>Father. Husband. Gardener. Climber. Fermentation Enthusiast.</em></p>
 <p>I love research, data, and trying to understand the underlying influences of events. I am an enthusiast of efficiency, automation, and work flow. I’ve been called contrarian and told I think too much, yet I believe challenging the status quo moves us forward. I enjoy teaching others to do the same.</p>
 <p><em>“Rivalry of scholars advances wisdom.”</em> – Hebrew Proverb</p>
+</section>
 <div id="hero-heading">
 <section id="education" class="level3">
-<h3 data-anchor-id="education">Education</h3>
-<p>The University of Georgia | Athens, GA | PhD in Cognitive Psychology | May 2005</p>
-<p>Bloomsburg University of Pennsylvania | Bloomsburg, PA | BA in Psychology | May 1999</p>
+<h3 data-anchor-id="education"><strong>Education</strong></h3>
+<p>The University of Georgia | Athens, Georgia | PhD in Cognitive Psychology | May 2005</p>
+<p>Bloomsburg University of Pennsylvania | Bloomsburg, Pennsylvania | BA in Psychology | May 1999</p>
 <p>I teach courses in Cognitive Psychology, Decision Making, Memory, Data Science, and Data Visualization.</p>
 </section>
 </div>
 <section id="teaching" class="level3">
-<h3 data-anchor-id="teaching">Teaching</h3>
+<h3 data-anchor-id="teaching"><strong>Teaching</strong></h3>
 <p>I have been a professor at Claremont McKenna College since 2005 and have taught courses on statistics, research methods, memory, cognition, and decision making. I’d like to develop a course related to Data Science using Python and R if time permits. I also offer a course on memory at Claremont Graduate School. I manage my Human Learning and Memory Lab at CMC.</p>
 
 

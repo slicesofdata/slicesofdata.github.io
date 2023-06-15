@@ -1,11 +1,16 @@
 project:
   type: website
-  output-dir: docs
-
+  output-dir: docs #../docs/
+  resources:
+    - "webr-serviceworker.js"
+    - "webr-worker.js"
+    
 website:
   title: "Gabriel I. Cook"
+   # google-analytics: 
+  description: "Website for data visualization lab at Claremont McKenna College."
   # Add site-url (without trailing / at the end)
-  site-url: https://github.com/slicesofdata
+  site-url: "https://slicesofdata.github.io/mysite"
   # Add description: 
   #description: ""
   
@@ -14,17 +19,38 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
-      - href: courses.qmd
-        text: Courses
+      - text: Courses
+        #href: courses.qmd
+        menu:
+          - text: Data Visualization
+            href: courses/dv/dv.qmd
+          - text: Cognitive Psychology
+            #href: courses.qmd #[Link](../courses/dv/page2.qmd)
       - href: lab.qmd
-        text: Lab        
+        text: Lab
       - href: pubs.qmd
         text: Pubs
       - href: dataviztools.qmd
         text: DataViz Tools
       - href: CV/0.gicCV_newest.pdf
         text: CV
-
+    
+    right:
+      - icon: github
+        href: https://github.com/slicesofdata
+        aria-label: GitHub
+      - icon: linkedin
+        href: https://www.linkedin.com/in/gabriel-cook-b618847/
+        aria-label: LinkedIn
+      #- icon: orcid
+      - text: ORCID
+        href: https://orcid.org/0000-0002-1921-5082
+      - text: Instagram
+        href: https://instagram.com/sowingchange
+      
+      #- icon: email
+      #  href: gcook@CMC.edu
+        
 format:
   html:
     theme:  styles.scss
@@ -33,6 +59,4 @@ format:
     #css: styles.css
     page-layout: full
     toc: true
-
-
 
