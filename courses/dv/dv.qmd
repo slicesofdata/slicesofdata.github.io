@@ -1,0 +1,4 @@
+---
+title: "PSYC167 Data Visualization"
+editor: visual
+---
