@@ -35,10 +35,12 @@ website:
       - href: CV/0.gicCV_newest.pdf
         text: CV
     right:
-      - text: ORCID
-        href: https://orcid.org/0000-0002-1921-5082
-      - text: Instagram
-        href: https://instagram.com/sowingchange
+      #- text: ORCID
+      #  href: https://orcid.org/0000-0002-1921-5082
+      #- text: Instagram
+      #  href: https://instagram.com/sowingchange
+      - icon: github
+        href: https://github.com/slicesofdata
       - icon: github
         href: https://github.com/slicesofdata
         aria-label: GitHub
