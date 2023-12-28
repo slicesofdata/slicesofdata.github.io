@@ -1,1 +1,1 @@
-Sitemap: https://slicesofdata.github.io/mysite/sitemap.xml
+Sitemap: https://slicesofdata.github.io/slicesofdata.github.io/sitemap.xml

@@ -9,7 +9,7 @@ website:
   title: "Gabriel I. Cook"
    # google-analytics: 
   # Add site-url (without trailing / at the end)
-  site-url: "https://slicesofdata.github.io/mysite"
+  site-url: "https://slicesofdata.github.io/slicesofdata.github.io"
   # Add description: 
   description: "Website for data visualization lab at Claremont McKenna College."
 
@@ -21,10 +21,14 @@ website:
       - about.qmd
       - text: Courses
         #href: courses.qmd
-        menu:
+        menu: 
+        # links to all sites that are nested under slicesofdata.github.io 
+        # 9seem to populate automatically)
+          - text: Foundations of Data Science
+            href: https://gabrielcook.xyz/fods24  
           - text: Data Visualization
-            href: courses/dv/dv.qmd
-          - text: Cognitive Psychology
+            href: https://gabrielcook.xyz/dataviz23  #courses/dv/dv.qmd
+          #- text: Cognitive Psychology
             #href: courses.qmd #[Link](../courses/dv/page2.qmd)
       - href: lab.qmd
         text: Lab
