@@ -40,8 +40,8 @@ website:
         text: Lab
       - href: pubs.qmd
         text: Pubs
-      - href: dataviztools.qmd
-        text: DataViz Tools
+     # - href: dataviztools.qmd
+      #  text: DataViz Tools
       - href: CV/0.gicCV_newest.pdf
         text: CV
     right:
