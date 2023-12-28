@@ -21,13 +21,19 @@ website:
       - about.qmd
       - text: Courses
         #href: courses.qmd
-        menu: 
         # links to all sites that are nested under slicesofdata.github.io 
         # 9seem to populate automatically)
+        menu: 
           - text: Foundations of Data Science
-            href: https://gabrielcook.xyz/fods24  
-          - text: Data Visualization
-            href: https://gabrielcook.xyz/dataviz23  #courses/dv/dv.qmd
+            href: https://gabrielcook.xyz/fods24
+          - text: Data Visualization (2023)
+            href: https://gabrielcook.xyz/dataviz23
+      #- text: Past Courses
+      #  #href: courses.qmd
+      #  menu: 
+      #    - text: Data Visualization (2023)
+      #      href: https://gabrielcook.xyz/dataviz23
+               # href: https://gabrielcook.xyz/dataviz23  #courses/dv/dv.qmd
           #- text: Cognitive Psychology
             #href: courses.qmd #[Link](../courses/dv/page2.qmd)
       - href: lab.qmd
