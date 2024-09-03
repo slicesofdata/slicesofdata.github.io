@@ -11,7 +11,7 @@
     "href": "index.html",
     "title": "Gabriel I. Cook",
     "section": "",
-    "text": "Me\nFather. Husband. Gardener. Climber. Fermentation Enthusiast.\nI love research, data, and trying to understand the underlying influences of events. I am an enthusiast of efficiency, automation, and work flow. I’ve been called contrarian and told I think too much, yet I believe challenging the status quo moves us forward. I enjoy teaching others to do the same.\n“Rivalry of scholars advances wisdom.” – Hebrew Proverb\n\n\n\nEducation\nThe University of Georgia | Athens, Georgia | PhD in Cognitive Psychology | May 2005\nBloomsburg University of Pennsylvania, now Commonwealth University - Bloomsburg | Bloomsburg, Pennsylvania | BA in Psychology | May 1999\n\n\n\nTeaching & Research\nI have been a professor at Claremont McKenna College since 2005 and have taught courses on statistics, research methods, memory, cognition, decision making, data science methods using R, and Data Visualization.\n\n\nResearch\nEarly in my career, my research focused on understanding how people remember to fulfill daily intentions (e.g., prospective memory) as well as remember or infer memorial details of events (e.g., source memory; reality monitoring). My current research focuses on how we make sense of data visualizations, remember them, and use them to inform decisions. Various levels of his information-processing stream are influenced by perception, visual attention, executive attention, memory, and decision making. As an individual living with vision difficulties associated with pathological myopia, I am also interested in understanding how the rich visual information communicated through data visualizations can be made accessible to individuals with vision difficulties (e.g., blindness, low-vision, etc.).\nStudents interested in studying data visualization should contact me here or visit me on campus."
+    "text": "Me\nFather. Husband. Gardener. Climber. Fermentation Enthusiast.\nI love research, data, and trying to understand the underlying influences of events. I am an enthusiast of efficiency, automation, and work flow. I’ve been called contrarian and told I think too much, yet I believe challenging the status quo moves us forward. I enjoy teaching others to do the same.\n“Rivalry of scholars advances wisdom.” – Hebrew Proverb\n\n\n\nEducation\nThe University of Georgia | Athens, Georgia | PhD in Cognitive Psychology | May 2005\nBloomsburg University of Pennsylvania, now Commonwealth University - Bloomsburg | Bloomsburg, Pennsylvania | BA in Psychology | May 1999\n\n\n\nTeaching & Research\nI have been a professor at Claremont McKenna College since 2005 and have taught courses on statistics, research methods, memory, cognition, decision making, data science methods using R, and Data Visualization.\n\n\nResearch\nEarly in my career, my research focused on understanding how people remember to fulfill daily intentions (e.g., prospective memory) as well as remember or infer memorial details of events (e.g., source memory; reality monitoring). My current research focuses on how we make sense of data visualizations, remember them, and use them to inform decisions. Various levels of this information-processing stream are influenced by perception, visual attention, executive attention, memory, and decision making. As an individual living with vision difficulties associated with pathological myopia, I am also interested in understanding how the rich visual information communicated through data visualizations can be made accessible to individuals with vision difficulties (e.g., blindness, low-vision, etc.).\nStudents interested in studying data visualization should contact me here or visit me on campus."
   },
   {
     "objectID": "dataviztools.html#websites",
@@ -72,22 +72,22 @@
   {
     "objectID": "lab.html",
     "href": "lab.html",
-    "title": "Data Visualization Lab",
+    "title": "Cognition & Data Visualization Lab",
     "section": "",
-    "text": "In the Data Visualization lab, our research focuses on understanding how people perceive, attend to, interpret, remember, and make decisions from data visualizations. In particular, we are interested in understanding the cognitive constraints, limitations, and biases associated with the daily task of understanding data through visualizations."
+    "text": "In my Cognition and Data Visualization lab, out research focuses on understanding how people perceive, attend to, interpret, remember, and make decisions from data visualizations. In particular, we are interested in understanding the cognitive constraints, limitations, and biases associated with the daily task of understanding data through visualizations. other work\nAs an individual living with vision difficulties associated with pathological myopia, I am also interested in understanding how the rich visual information communicated through data visualizations can be made accessible to individuals with vision difficulties (e.g., blindness, low-vision, etc.).\nStudents interested in studying data visualization should contact me here or visit me on campus."
   },
   {
     "objectID": "lab.html#what-we-do",
     "href": "lab.html#what-we-do",
-    "title": "Data Visualization Lab",
+    "title": "Cognition & Data Visualization Lab",
     "section": "",
-    "text": "In the Data Visualization lab, our research focuses on understanding how people perceive, attend to, interpret, remember, and make decisions from data visualizations. In particular, we are interested in understanding the cognitive constraints, limitations, and biases associated with the daily task of understanding data through visualizations."
+    "text": "In my Cognition and Data Visualization lab, out research focuses on understanding how people perceive, attend to, interpret, remember, and make decisions from data visualizations. In particular, we are interested in understanding the cognitive constraints, limitations, and biases associated with the daily task of understanding data through visualizations. other work\nAs an individual living with vision difficulties associated with pathological myopia, I am also interested in understanding how the rich visual information communicated through data visualizations can be made accessible to individuals with vision difficulties (e.g., blindness, low-vision, etc.).\nStudents interested in studying data visualization should contact me here or visit me on campus."
   },
   {
     "objectID": "lab.html#skills-and-tools",
     "href": "lab.html#skills-and-tools",
-    "title": "Data Visualization Lab",
-    "section": "Skills and tools",
-    "text": "Skills and tools\n\nData Analysis: R, RStudio\nGit: GitHub, GitLab, GitDesktop\nExperimental Design: E-prime, PsychoPy (Python & JS)\nExperiment Management: Sona-Systems (local experiments); Pavlovia & Prolific (for identifying samples for online data collection across the globe)\nSurveys: Qualtrics"
+    "title": "Cognition & Data Visualization Lab",
+    "section": "Skills and Tools",
+    "text": "Skills and Tools\n\nData Analysis: R, RStudio\nGit: GitHub, GitLab, GitDesktop\nExperimental Design: E-prime, PsychoPy (Python & JavaScript), Gorilla (JavaScript)\nExperiment Management: Sona-Systems (local experiments); Pavlovia & Prolific (for identifying samples for online data collection across the globe)\nSurveys: Qualtrics"
   }
 ]
