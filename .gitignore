@@ -1,12 +1,14 @@
-
 .Rproj.user
 .Rhistory
 .RData
 .Ruserdata
+.Rprofile
+.Renviron
 
 /.quarto/
 notes/
 data/
+_ignore/
 *.RData
 *.rdb
 *.rdx
