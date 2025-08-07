@@ -1,33 +1,39 @@
+
 project:
   type: website
   output-dir: docs #../docs/
+  preview:
+    port: 110
+    browser: true
+    navigate: true
   resources:
     - "webr-serviceworker.js"
     - "webr-worker.js"
     
 website:
-  title: "Gabriel I. Cook"
+  title: "**Gabriel I. Cook**"
    # google-analytics: 
   # Add site-url (without trailing / at the end)
   site-url: "https://slicesofdata.github.io/slicesofdata.github.io"
   # Add description: 
-  description: "Website for data visualization lab at Claremont McKenna College."
+  description: "Personal website, website for data visualization lab at Claremont McKenna College."
 
-  
   navbar:
     left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+      - text: Home
+        href: index.qmd
+      #- about.qmd
       - text: Courses
         #href: courses.qmd
         # links to all sites that are nested under slicesofdata.github.io 
         # 9seem to populate automatically)
         menu: 
-          - text: Foundations of Data Science
+          - text: Foundations of Data Science (2024)
             href: https://gabrielcook.xyz/fods24
-          - text: Data Visualization (2023)
-            href: https://gabrielcook.xyz/dataviz23
+#          - text: Data Visualization (2023)
+#            href: https://gabrielcook.xyz/dataviz23
+          - text: Data Visualization (2025)
+            href: https://gabrielcook.xyz/dataviz25 
       #- text: Past Courses
       #  #href: courses.qmd
       #  menu: 
@@ -36,14 +42,14 @@ website:
                # href: https://gabrielcook.xyz/dataviz23  #courses/dv/dv.qmd
           #- text: Cognitive Psychology
             #href: courses.qmd #[Link](../courses/dv/page2.qmd)
-      - href: lab.qmd
-        text: Lab
+      - href: https://gabrielcook.xyz/cdvlab #lab.qmd
+        text: CDV Lab
       - href: pubs.qmd
         text: Pubs
      # - href: dataviztools.qmd
       #  text: DataViz Tools
-      - href: CV/0.gicCV_newest.pdf
-        text: CV
+      - href: cv/0.gicCV_newest.pdf
+        text: cv
     right:
       - icon: github
         href: https://github.com/slicesofdata
